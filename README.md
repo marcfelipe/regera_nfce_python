@@ -5,7 +5,7 @@ Project to regenerate XMLs files for NFCe that is stored inside firebird databas
 These files are compresed before write in database, this script:
 Read from database, uncompress, transform XML to dictionary, apply changes, compress and save It to database.
 
-There are 3 functions.
+There are 3 functions.\n
 
 update_indPres  -> change tad indPres to 1.
 
